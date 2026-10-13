@@ -1,0 +1,6 @@
+{
+  "name": "Odoo Dev Journey",
+  "description": "نظام إدارة التعلم وتتبع التقدم للانتقال من Odoo Implementor إلى Odoo 19 Full-Stack Developer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
